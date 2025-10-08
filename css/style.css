@@ -593,6 +593,9 @@
      margin-bottom: 10px;
      cursor: pointer;
  }
+.universe ul li:hover {
+    text-decoration: underline;
+}
 
  .footer-input {
      width: 100%;
